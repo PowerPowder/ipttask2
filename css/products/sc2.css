@@ -1,0 +1,15 @@
+#overview{
+    background-image: url("/products/pictures/sc2.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#separate{
+    font-family: 'Roboto Mono', monospace;
+}
+
+#buy-product{
+    background-image: url("/other/sc2-gameplay.jpg");
+}
