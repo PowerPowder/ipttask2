@@ -1,5 +1,5 @@
 body{
-    background: url("https://powerpowder.github.io/test/other/space.gif");
+    background: url("https://powerpowder.github.io/ipttask2/other/space.gif");
     -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;
 }
 
@@ -70,7 +70,7 @@ form input{
     outline: none;
 }
 
-.test i{
+.ipttask2 i{
     display: inline;
     color: #fff;
     padding: 0 0.5rem;
