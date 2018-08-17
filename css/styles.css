@@ -74,7 +74,7 @@ iframe{
 }
 
 #title-landing{
-    background-image: url("/other/city.png");
+    background-image: url("https://powerpowder.github.io/test/other/city.png");
     height: 88%; 
     background-position: center;
     background-repeat: no-repeat;
@@ -153,7 +153,7 @@ iframe{
 }
 
 #about{
-    background-image: url("/stock-images/about.jpg");
+    background-image: url("https://powerpowder.github.io/test/stock-images/about.jpg");
     height: 50%; 
     background-position: center;
     background-repeat: no-repeat;
@@ -173,7 +173,7 @@ iframe{
 }
 
 #support{
-    background-image: url("/stock-images/support.jpg");
+    background-image: url("https://powerpowder.github.io/test/stock-images/support.jpg");
     height: 50%; 
     background-position: center;
     background-repeat: no-repeat;
@@ -186,7 +186,7 @@ iframe{
 }
 
 #contact{
-    background-image: url("/stock-images/contact.jpg");
+    background-image: url("https://powerpowder.github.io/test/stock-images/contact.jpg");
     height: 50%; 
     background-position: center;
     background-repeat: no-repeat;
