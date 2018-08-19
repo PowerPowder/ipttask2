@@ -1,0 +1,13 @@
+body{
+	background-image: url("https://powerpowder.github.io/ipttask2/other/pixel-city.gif");
+	-webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;
+}
+
+.cart{
+	background: rgba(240, 240, 240, 0.5);
+	margin: 30%;
+}
+
+h1{
+	color: #fff;
+}
