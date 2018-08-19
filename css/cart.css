@@ -5,9 +5,10 @@ body{
 
 .cart{
 	background: rgba(240, 240, 240, 0.5);
-	margin: 30%;
+	margin: 0 30%;
 }
 
 h1{
 	color: #fff;
+	text-align: center;
 }
